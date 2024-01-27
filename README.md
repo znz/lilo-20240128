@@ -1,6 +1,6 @@
 # lilo.linux.or.jpをbusterからbullseyeに上げた
 
-TODO: スライドの説明
+[LILO&東海道らぐオフラインミーティング 2024-01-28](https://lilo.connpass.com/event/306590/)の発表資料です。
 
 ## 作者向け
 
