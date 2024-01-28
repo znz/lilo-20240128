@@ -10,7 +10,7 @@ date
 :   2024-01-28
 
 allotted-time
-:   10m
+:   15m
 
 theme
 :   lightning-simple
@@ -21,6 +21,7 @@ theme
 - Ruby のコミッター
 - twitter, github など: @znz
 - 株式会社Ruby開発 www.ruby-dev.jp
+- lilo.linux.or.jp のサーバー管理者の1人
 
 # lilo.linux.or.jp とは
 
